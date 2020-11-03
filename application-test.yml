@@ -1,1 +1,2 @@
-configInfo:"spring-cloud-config version 1"
+config:
+  info:"spring-cloud-config version 1"
